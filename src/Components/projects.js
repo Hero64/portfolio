@@ -32,7 +32,7 @@ module.exports  = [
         image: './static/img/t4.png',
         big_image: './static/img/4.png',
         url: ['https://hero64.github.io/web_learning/'],
-        description: 'One Page, que introduce el programa de postgrados que ofrecen en conjuto la universidad Ucinf y el Institulo Iplasex'
+        description: 'One Page, que introduce el programa de postgrados que ofrecen en conjunto la universidad Ucinf y el Instituto Iplasex'
 
     },
     {
@@ -40,7 +40,7 @@ module.exports  = [
         image: './static/img/t5.png',
         big_image: './static/img/5.png',
         url: ['https://hero64.github.io/joeblack/'],
-        description: 'Mini sitio promosional de Joe Black, realizado para la sociadad periodistica El Líbero'
+        description: 'Mini sitio promocional de Joe Black, realizado para la sociadad periodística El Líbero'
 
     },
     {
@@ -59,7 +59,7 @@ module.exports  = [
             'https://hero64.github.io/anasac/producto.html',
             'https://hero64.github.io/anasac/vivero.html'
         ],
-        description: 'Sitio de Anasac vivero con el objetivo de actualizar el apartado estético de su actual sitio.'
+        description: 'Sitio de Anasac vivero con el objetivo de actualizar el apartado estético de su actual sitio'
 
     },
 ];
